@@ -1,3 +1,6 @@
+/**
+ * Example page. Replace it by your own
+ */
 import React from 'react';
 import { View, StyleSheet, Button } from 'react-native';
 import { StatusBar } from 'expo-status-bar';

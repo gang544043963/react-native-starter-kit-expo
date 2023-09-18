@@ -1,3 +1,6 @@
+/**
+ * Example page. Replace it by your own
+ */
 import React from 'react';
 import { View, StyleSheet, Text } from 'react-native';
 
