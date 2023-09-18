@@ -4,23 +4,23 @@ Help you quickly set up your React Native mobile app with best practices.
 
 ## Intro
 
-[Expo](https://docs.expo.dev/) based project. It's a better way to build a React Native application, you don't need to
-care about native stuff. And you can convert it into a bare React Native application any time by one command: "npx expo
-prebuild".
+This is an [Expo](https://docs.expo.dev/) based project. It's a better way to build a React Native application, you
+don't need to care about native stuff. And you can convert it into a bare React Native application any time by one
+command: "npx expo prebuild".
 
-Expo: 49.0.10
+**Expo**: 49.0.10
 
-React Native: 0.72.4
+**React Native**: 0.72.4
 
-React: 18.2.0
+**React**: 18.2.0
 
 ## Features
 
--   TypeScript
--   Navigation: [React Navigation](https://reactnavigation.org/)
--   Material Design library: [React Native Paper](https://reactnativepaper.com/)
--   Code Linting: Eslint + prettier + react-native-community/eslint-config
--   Testing:
+-   **TypeScript** supported
+-   **Navigation**: [React Navigation](https://reactnavigation.org/)
+-   **Material Design library**: [React Native Paper](https://reactnativepaper.com/)
+-   **Code Linting**: Eslint + prettier + react-native-community/eslint-config
+-   **Testing**:
 
     -   Unit Test: Jest
     -   Component Test: React Native Testing Library (RNTL)
@@ -29,9 +29,9 @@ React: 18.2.0
         using the 'npx expo prebuild' command. You can follow this
         [guide](https://docs.expo.dev/build-reference/e2e-tests/)
 
--   Pre-commit: [husky](https://github.com/typicode/husky)
--   Network client: [Axios](https://github.com/axios/axios)
--   State Management: React Context API and React Hooks
+-   **Pre-commit**: [husky](https://github.com/typicode/husky)
+-   **Network client**: [Axios](https://github.com/axios/axios)
+-   **State Management**: React Context API and React Hooks
 
 ## Getting started
 
