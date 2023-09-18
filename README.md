@@ -32,3 +32,37 @@ React: 18.2.0
 -   Pre-commit: [husky](https://github.com/typicode/husky)
 -   Network client: [Axios](https://github.com/axios/axios)
 -   State Management: React Context API and React Hooks
+
+## Getting started
+
+1.  Clone the repository
+2.  Install dependencies
+    ```
+    cd react-native-starter-kit-expo
+    yarn
+    ```
+3.  Run project on simulator/emulator
+
+    iOS simulator:
+
+    ```
+    yarn ios
+    ```
+
+    Android simulator:
+
+    ```
+    yarn android
+    ```
+
+    or
+
+    ```
+    // The Expo CLI will provide options to open in [web, android or iOS]
+
+    yarn start
+    ```
+
+## License
+
+MIT licensed.
