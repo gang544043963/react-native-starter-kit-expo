@@ -32,6 +32,9 @@ command: "npx expo prebuild".
 -   **Pre-commit**: [husky](https://github.com/typicode/husky)
 -   **Network client**: [Axios](https://github.com/axios/axios)
 -   **State Management**: React Context API and React Hooks
+-   **Icons**: [@expo/vector-icons](https://docs.expo.dev/guides/icons/)
+-   **Local Storage**:
+    [@react-native-async-storage/async-storage](https://react-native-async-storage.github.io/async-storage/docs/usage/)
 
 ## Getting started
 
@@ -49,7 +52,7 @@ command: "npx expo prebuild".
     yarn ios
     ```
 
-    Android simulator:
+    Android emulator:
 
     ```
     yarn android
